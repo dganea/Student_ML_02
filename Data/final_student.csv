@@ -1,0 +1,59 @@
+gender,region,highest_education,imd_band,age_band,num_of_prev_attempts,studied_credits,disability,assessment_type,date_average,module_presentation_length,grading_scale
+M,London Region,A Level or Equivalent,0-10%,35-55,0,420,N,CMA,62,268,F
+M,South East Region,HE Qualification,80-90%,35-55,0,60,N,TMA,112,269,B+
+F,East Anglian Region,A Level or Equivalent,70-80%,35-55,0,60,Y,CMA,182,240,B
+F,North Western Region,Lower Than A Level,40-50%,0-35,1,60,N,CMA,109,240,A
+F,Wales,Lower Than A Level,10-20,0-35,0,60,N,TMA,114,240,C+
+F,Wales,Lower Than A Level,0-10%,0-35,0,60,N,CMA,111,240,C+
+M,Wales,Lower Than A Level,50-60%,35-55,0,120,N,TMA,96,240,B+
+F,Wales,HE Qualification,0-10%,35-55,0,60,N,TMA,130,240,A+
+F,East Anglian Region,A Level or Equivalent,50-60%,0-35,0,60,Y,CMA,192,240,B+
+F,London Region,Lower Than A Level,60-70%,0-35,0,90,N,TMA,107,240,B
+F,Ireland,Lower Than A Level,80-90%,0-35,0,120,N,CMA,167,268,C
+F,East Midlands Region,Lower Than A Level,30-40%,0-35,0,60,N,TMA,90,268,A
+F,Ireland,A Level or Equivalent,20-30%,35-55,0,60,N,CMA,119,268,B-
+F,North Western Region,A Level or Equivalent,10-20,35-55,2,60,N,TMA,50,268,A+
+F,London Region,HE Qualification,30-40%,35-55,0,60,N,TMA,107,268,C+
+F,North Western Region,A Level or Equivalent,80-90%,0-35,0,60,N,TMA,114,268,B+
+F,South West Region,Lower Than A Level,20-30%,0-35,0,60,N,CMA,150,268,F
+F,London Region,Lower Than A Level,60-70%,0-35,0,120,N,TMA,95,268,C
+M,Yorkshire Region,Lower Than A Level,90-100%,0-35,0,60,Y,CMA,54,268,A-
+F,South West Region,Lower Than A Level,60-70%,0-35,0,120,N,TMA,99,268,F
+F,East Midlands Region,A Level or Equivalent,30-40%,0-35,0,60,N,TMA,96,234,C+
+F,South East Region,Lower Than A Level,60-70%,35-55,1,60,N,TMA,112,262,B-
+F,London Region,Lower Than A Level,40-50%,0-35,0,120,N,TMA,120,262,A+
+M,Ireland,A Level or Equivalent,10-20,35-55,0,60,N,CMA,103,262,F
+F,London Region,Lower Than A Level,20-30%,0-35,0,60,N,CMA,83,262,C+
+F,Scotland,HE Qualification,0-10%,35-55,0,60,N,CMA,109,262,F
+M,Ireland,Lower Than A Level,0-10%,35-55,0,60,N,TMA,112,262,C-
+M,Yorkshire Region,HE Qualification,40-50%,35-55,1,90,N,CMA,167,269,A
+M,South Region,A Level or Equivalent,90-100%,0-35,0,120,N,TMA,114,241,D
+M,London Region,A Level or Equivalent,0-10%,35-55,0,60,N,TMA,82,241,F
+M,North Region,A Level or Equivalent,,0-35,0,120,N,TMA,95,269,C+
+M,South East Region,HE Qualification,10-20,0-35,0,60,N,TMA,120,269,A-
+M,Wales,A Level or Equivalent,70-80%,0-35,0,60,N,CMA,186,241,A-
+M,South East Region,A Level or Equivalent,70-80%,35-55,0,60,N,TMA,115,261,A
+M,South Region,A Level or Equivalent,80-90%,0-35,0,120,N,CMA,194,269,D
+F,London Region,Lower Than A Level,70-80%,0-35,0,90,N,CMA,176,240,A
+M,South Region,Lower Than A Level,80-90%,0-35,0,120,Y,TMA,120,240,A
+M,East Anglian Region,Lower Than A Level,60-70%,0-35,0,60,N,TMA,95,261,D
+M,South Region,Lower Than A Level,60-70%,0-35,0,180,N,TMA,100,261,B
+F,South East Region,A Level or Equivalent,90-100%,0-35,0,60,N,TMA,88,241,A
+F,South West Region,A Level or Equivalent,40-50%,0-35,0,120,N,TMA,120,262,A-
+M,Wales,Lower Than A Level,60-70%,0-35,0,60,N,TMA,107,262,F
+M,South Region,Lower Than A Level,70-80%,0-35,0,60,N,CMA,187,262,A-
+M,South East Region,HE Qualification,20-30%,0-35,0,120,N,TMA,40,262,B-
+F,London Region,HE Qualification,30-40%,0-35,0,90,N,TMA,104,262,A
+M,London Region,A Level or Equivalent,20-30%,35-55,0,45,N,TMA,30,269,F
+F,Scotland,HE Qualification,30-40%,0-35,0,60,Y,TMA,107,240,A-
+M,West Midlands Region,A Level or Equivalent,50-60%,0-35,0,60,N,CMA,171,240,A-
+M,East Anglian Region,Lower Than A Level,40-50%,0-35,0,60,N,CMA,186,268,A+
+M,South Region,HE Qualification,90-100%,0-35,0,60,N,CMA,186,241,D
+F,Scotland,HE Qualification,20-30%,0-35,0,60,N,TMA,107,269,C
+M,South Region,Lower Than A Level,40-50%,0-35,0,30,N,TMA,107,261,C
+M,East Midlands Region,Lower Than A Level,10-20,0-35,1,60,N,CMA,157,241,D
+M,East Anglian Region,A Level or Equivalent,90-100%,0-35,0,30,Y,TMA,107,241,F
+F,West Midlands Region,Lower Than A Level,0-10%,0-35,0,30,N,TMA,83,241,C
+F,North Western Region,Lower Than A Level,0-10%,35-55,0,30,Y,TMA,107,269,B
+F,Yorkshire Region,A Level or Equivalent,0-10%,0-35,2,30,N,CMA,192,269,B-
+F,London Region,Lower Than A Level,0-10%,0-35,0,30,N,TMA,95,269,F
